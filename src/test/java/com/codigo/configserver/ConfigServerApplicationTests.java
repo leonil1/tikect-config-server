@@ -1,4 +1,4 @@
-package com.grupo9.configserver;
+package com.codigo.configserver;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
